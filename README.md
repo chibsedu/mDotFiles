@@ -6,7 +6,7 @@ Settings for Alacritty, a GPU-accelerated terminal emulator
 
 To install, clone the repository to `~/.config/alacritty`.
 
-Ajout Favs.html 09-09-2021
+Delete Favs.html 09-09-2021
 
 Opened On Mac VSCode
 
